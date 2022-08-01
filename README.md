@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋, I'm Atharva Kathe
+A Full Stack Developer 
 <!--
 **atharvkathe/atharvkathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
