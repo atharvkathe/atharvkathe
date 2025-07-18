@@ -46,10 +46,18 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/-Gradio-5E51A8?style=flat&logo=gradio&logoColor=white)
 
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharvkathe/atharvkathe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharvkathe/atharvkathe/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atharvkathe/atharvkathe/output/github-contribution-grid-snake.svg" />
-</picture>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvkathe&show_icons=true&theme=radical&hide=stars" alt="Atharv's GitHub stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvkathe&layout=compact&theme=radical" alt="Top Languages" height="180">
+</p>
+
+---
+
+## 🧩 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvkathe&theme=radical" alt="GitHub Streak">
+</p>
