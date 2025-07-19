@@ -10,8 +10,8 @@
 ```bash
 > atharvkathe --whoami
 💻 Self-taught Data Science Engineer with a background outside tech
-🧩 Background in non-tech, learned by building real projects
-⚙️ Skilled in Python, OpenAI, Notion, Airtable, Zapier
+🧩 Background in non-tech, learning by building real projects
+⚙️ Skilled in Python, ML frameworks, OpenAI, Notion, Zapier
 🔁 Designs AI workflows that connect data with actions
 🌍 Navi Mumbai, India
 > _ 
