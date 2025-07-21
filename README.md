@@ -56,8 +56,3 @@
 
 ---
 
-## 🧩 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvkathe&theme=radical" alt="GitHub Streak">
-</p>
