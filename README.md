@@ -9,7 +9,7 @@
 
 ```bash
 > atharvkathe --whoami
-💻 Self-taught Data Scientist with a background outside tech
+💻 Self-taught Data Analyst with a background outside tech
 🧩 Background in non-tech, learning by building real projects
 ⚙️ Skilled in Python, ML frameworks, OpenAI, Notion, Zapier
 🔁 Designs AI workflows that connect data with actions
